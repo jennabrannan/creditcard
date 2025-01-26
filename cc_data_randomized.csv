@@ -1,0 +1,301 @@
+Gender,Age,Debt,Married,BankCustomer,EducationLevel,Ethnicity,YearsEmployed,PriorDefault,Employed,CreditScore,DriversLicense,Citizen,ZipCode,Income,ApprovalStatus
+Female,45,20716.5,Yes,No,Graduate,Hispanic,0,No,Yes,747,Yes,,99748,114687.64,Approved
+Female,61,0,Yes,Yes,PhD,Hispanic,29.9,No,Yes,826,Yes,US,98212,187733.03,Approved
+Female,27,23269.07,No,No,Graduate,Hispanic,2.2,No,Yes,820,Yes,US,98141,116345.34,Approved
+Female,29,18471.23,Yes,Yes,College,Hispanic,0.8,No,Yes,417,Yes,US,98052,61570.76,Denied
+Male,73,15480.4,No,Yes,College,Hispanic,46.9,No,Yes,610,Yes,US,97908,51601.35,Denied
+Male,73,26277.55,Yes,Yes,Graduate,Black,25.7,No,Yes,681,Yes,US,96698,102517.82,Approved
+Male,31,20921.95,Yes,No,College,Black,0,No,Yes,582,Yes,US,95913,69739.83,Denied
+Female,66,9735.99,Yes,Yes,High School,Black,0,No,Yes,665,Yes,US,95617,32453.3,Denied
+Male,26,0,No,No,High School,Black,4.5,No,No,402,Yes,US,95416,32876.62,Denied
+Female,71,6837.18,Yes,No,High School,Black,7.6,No,No,582,No,US,95355,22790.59,Denied
+Male,40,5198.83,Yes,Yes,High School,Hispanic,0,No,Yes,792,No,US,95199,25994.14,Denied
+Female,72,21956.89,No,No,College,Asian,41.6,Yes,Yes,418,Yes,US,94868,73189.62,Denied
+Female,57,5200,No,No,College,Asian,0,No,Yes,690,No,Non-US,94322,191754.62,Approved
+Female,39,24750.46,No,No,PhD,White,0,No,Yes,777,Yes,US,93838,123752.28,Approved
+Male,48,100,No,Yes,College,Hispanic,23.2,No,Yes,700,Yes,US,93455,57658.39,Approved
+Male,23,28132.05,Yes,No,Graduate,Hispanic,0,No,Yes,708,Yes,US,93300,93773.5,Approved
+Female,55,22341.58,Yes,No,College,White,0,No,Yes,624,Yes,US,93279,74471.92,Approved
+Female,42,8628.03,No,No,High School,Other,18,No,Yes,705,Yes,US,93192,28760.09,Denied
+Female,29,111.35,Yes,No,PhD,Asian,0,No,Yes,768,Yes,US,92864,192447.58,Approved
+Male,47,7063.19,Yes,No,High School,Asian,0,No,Yes,465,Yes,US,92773,23543.97,Denied
+Male,51,22675.28,Yes,Yes,Graduate,Black,21.6,No,Yes,843,Yes,US,91583,113376.38,Approved
+Male,44,0,No,No,High School,White,0,No,Yes,695,No,US,91431,26642.91,Approved
+Female,40,12055.91,Yes,No,College,White,9.4,No,No,382,Yes,US,91300,40186.37,Denied
+Female,69,21680.38,No,No,PhD,Hispanic,42.7,No,Yes,758,Yes,US,91250,138658.16,Approved
+Male,52,0,Yes,Yes,College,Hispanic,17.4,No,Yes,675,Yes,US,91156,41709.68,Approved
+Male,27,0,Yes,Yes,PhD,Asian,6.8,No,Yes,823,No,US,90762,130914.12,Approved
+Male,23,21728.91,No,Yes,College,Other,0.4,Yes,Yes,400,Yes,US,90142,72429.69,Denied
+Female,71,19578.74,Yes,Yes,College,Black,0,Yes,No,450,Yes,US,90138,65262.47,Denied
+Female,64,10128.33,No,No,High School,White,21.9,No,Yes,540,Yes,US,89975,33761.11,Denied
+Male,19,0,Yes,Yes,College,Hispanic,0.7,No,Yes,664,Yes,US,88916,189082.55,Approved
+Male,35,0,Yes,Yes,High School,Hispanic,16.3,No,Yes,671,Yes,US,88756,37893.75,Approved
+Male,47,3389.56,No,No,High School,Asian,0,No,Yes,715,Yes,US,88662,23824.07,Denied
+Male,24,15551.29,No,No,College,Other,0,No,Yes,658,Yes,US,87945,51837.64,Approved
+Male,62,0,No,Yes,PhD,Hispanic,34.7,No,Yes,812,Yes,US,87785,151609.75,Approved
+Male,55,11669.78,No,No,High School,White,8.3,Yes,Yes,405,No,US,87688,38899.28,Denied
+Male,39,2035.6,No,Yes,PhD,Black,0,No,Yes,745,Yes,US,87666,142586.2,Approved
+Male,42,0,Yes,Yes,Graduate,Other,19.9,Yes,No,650,Yes,US,87102,117619.39,Approved
+Male,44,31579.39,Yes,No,Graduate,Black,13.7,No,Yes,728,Yes,US,0,105264.64,Approved
+Female,31,2005,Yes,Yes,High School,Other,0,No,Yes,631,Yes,US,86876,39779.58,Approved
+Female,52,0,No,No,High School,Black,0,No,Yes,636,Yes,US,86675,25388.45,Denied
+Male,61,38084.84,No,No,High School,White,0,Yes,Yes,675,No,US,86101,126949.48,Denied
+Female,26,6478.94,Yes,No,High School,Other,5,No,Yes,400,Yes,US,85705,21596.46,Denied
+Female,52,22221.1,Yes,Yes,Graduate,Asian,0,Yes,Yes,820,Yes,US,85089,111105.51,Denied
+Female,49,0,No,Yes,High School,Other,0,No,Yes,407,Yes,US,0,38198.07,Approved
+Male,59,17260.33,No,Yes,College,White,16.7,Yes,Yes,732,Yes,US,82751,57534.44,Denied
+Female,72,0,Yes,No,Graduate,Asian,12.8,No,Yes,661,Yes,US,82685,90723.68,Approved
+Male,58,8256.27,No,No,Graduate,Asian,0,No,Yes,795,No,US,82680,92615.65,Approved
+Female,18,2932.36,Yes,No,High School,White,0,Yes,Yes,550,Yes,US,0,34883.88,Denied
+Male,56,0,No,No,College,Asian,0,Yes,Yes,481,Yes,US,82308,69106.12,Denied
+Female,56,1223,Yes,No,College,Hispanic,0,No,No,332,Yes,US,82298,76330.91,Denied
+Male,41,0,No,Yes,College,Other,0,No,Yes,438,Yes,US,81910,67267.79,Denied
+Female,18,11512.65,No,Yes,High School,White,0,No,Yes,300,Yes,US,81695,38375.5,Denied
+Male,49,0,No,Yes,High School,Other,0,Yes,Yes,705,Yes,US,81475,23933.94,Denied
+Male,58,30685.32,No,Yes,PhD,White,0,No,Yes,837,Yes,US,81407,153426.61,Approved
+Female,46,462.5,No,Yes,High School,Other,1.8,No,Yes,676,Yes,US,81201,177898.01,Approved
+Male,60,0,No,Yes,High School,Hispanic,24.4,No,Yes,495,Yes,US,81027,25125.99,Denied
+Male,64,1531.1,No,No,Graduate,Hispanic,0,No,No,697,Yes,US,80962,110195.57,Approved
+Female,66,0,No,No,Graduate,Other,0,No,No,801,Yes,US,80595,83241.21,Approved
+Female,64,6942.22,No,Yes,High School,White,32.9,No,Yes,603,Yes,US,0,23140.75,Denied
+Female,72,29554.28,Yes,No,Graduate,Other,0,No,Yes,658,Yes,US,80394,98514.27,Approved
+Male,54,39653.98,No,No,PhD,Hispanic,32.2,Yes,Yes,685,Yes,US,79990,198269.89,Denied
+Male,47,15292.73,No,No,College,Asian,6.3,No,No,516,Yes,US,79796,50975.76,Denied
+Female,33,7849.08,No,Yes,High School,Other,2.4,No,Yes,711,Yes,US,79562,26163.59,Denied
+Female,53,14883.42,No,Yes,College,Asian,0,No,No,358,No,US,79420,49611.41,Denied
+Female,34,5986.86,Yes,Yes,PhD,White,0,No,Yes,755,Yes,US,79193,161784.24,Approved
+Male,74,0,No,No,College,Hispanic,29.7,No,Yes,453,Yes,US,79123,55758.3,Denied
+Male,23,0,Yes,No,High School,Hispanic,0,Yes,No,670,Yes,US,79119,20158.8,Approved
+Female,40,18365.96,No,No,College,Hispanic,0,No,Yes,512,No,US,79006,61219.88,Denied
+Male,32,8635.98,No,No,High School,Asian,0,No,Yes,711,Yes,US,78848,31924.82,Denied
+Female,41,6742.31,No,No,High School,Asian,0,No,Yes,462,No,US,78576,22474.38,Denied
+Female,37,35958.07,No,Yes,Graduate,Black,0,No,Yes,670,Yes,US,78222,119860.25,Approved
+Female,18,10564.43,Yes,No,High School,Asian,0,No,Yes,443,Yes,US,78219,35214.77,Denied
+Male,58,0,Yes,No,High School,Hispanic,0,Yes,Yes,786,Yes,US,78011,169597.08,Approved
+Female,22,4033.11,Yes,No,High School,Asian,0,No,No,808,Yes,US,77740,20165.54,Denied
+Male,38,4740.48,No,Yes,High School,Black,0,Yes,Yes,763,No,US,77704,23702.42,Denied
+Female,74,10021,Yes,Yes,College,Other,47.5,No,Yes,593,Yes,US,77538,60785.38,Denied
+Male,67,19564.88,Yes,Yes,Graduate,White,0,No,Yes,784,Yes,US,77375,97824.38,Approved
+Male,18,8530.9,Yes,Yes,High School,Asian,0,No,Yes,605,Yes,Non-US,77054,28436.35,Denied
+Male,63,3298.42,Yes,No,Graduate,Black,0,No,No,797,Yes,US,76927,80817.84,Approved
+Female,45,0,Yes,Yes,Graduate,White,0,Yes,Yes,677,Yes,US,76893,80116.36,Approved
+Female,59,267.15,No,No,High School,Other,0,No,Yes,462,No,US,76890,23242.39,Denied
+Male,30,45610,Yes,Yes,PhD,White,0.8,No,Yes,788,Yes,US,76787,195223.62,Approved
+Male,58,0,No,Yes,PhD,Hispanic,12.2,No,No,716,Yes,US,76277,160702.02,Approved
+Female,21,255.59,Yes,Yes,PhD,Hispanic,0,No,Yes,735,Yes,US,76245,179287.9,Approved
+Female,73,13901.8,Yes,Yes,Graduate,Black,34.1,No,Yes,801,Yes,US,76068,107269.73,Approved
+Female,20,17773.6,Yes,Yes,College,White,0.1,No,No,572,Yes,US,76010,59245.34,Denied
+Female,50,20509.39,Yes,No,Graduate,Other,0,No,Yes,801,Yes,US,74891,102546.95,Approved
+Male,29,2447.26,No,No,Graduate,White,6,No,Yes,808,Yes,US,74465,101670.76,Approved
+Male,67,9255.73,No,Yes,College,White,0,No,Yes,547,No,US,74105,51985.02,Denied
+Female,47,25890.95,Yes,No,Graduate,Other,12.6,No,Yes,656,Yes,US,73819,86303.18,Approved
+Male,35,2130,Yes,Yes,PhD,White,10,No,Yes,807,Yes,US,73683,195835.83,Approved
+Female,49,19620.78,No,No,Graduate,White,0,No,Yes,850,Yes,US,73305,98103.89,Approved
+Male,59,20956.32,Yes,Yes,College,White,31.8,No,Yes,528,Yes,US,73098,69854.41,Denied
+Male,49,9514.9,No,Yes,College,Asian,0,No,Yes,559,No,US,73084,67760.33,Denied
+Female,25,19547.21,Yes,No,Graduate,White,0,No,Yes,750,Yes,US,72692,97736.07,Approved
+Female,64,8080.41,No,Yes,High School,Other,0,Yes,Yes,658,Yes,Non-US,72146,26934.7,Denied
+Female,25,10309.33,Yes,Yes,High School,Other,0,Yes,No,369,Yes,Non-US,71672,34364.44,Denied
+Female,66,0,Yes,Yes,High School,Black,0,No,Yes,450,Yes,US,71229,34713.59,Denied
+Male,73,11418.93,No,Yes,High School,White,5.5,No,Yes,701,Yes,US,71003,38063.11,Denied
+Female,72,0,No,Yes,PhD,Asian,19.2,No,Yes,698,Yes,US,70809,151999.97,Approved
+Female,72,0,No,No,Graduate,Asian,0,No,Yes,819,Yes,US,70725,95265.77,Approved
+Female,29,27373.4,Yes,Yes,PhD,White,4.2,No,Yes,753,Yes,US,70705,136867.02,Approved
+Male,36,24062.73,No,No,High School,Other,0,No,Yes,805,Yes,US,70568,136116.55,Approved
+Male,56,260.5,No,No,PhD,Other,19.9,No,Yes,664,Yes,US,70471,189094.24,Approved
+Female,68,3115.27,No,Yes,PhD,Hispanic,0,No,Yes,835,No,US,69892,155576.36,Approved
+Male,42,7047.28,Yes,Yes,High School,Asian,0,No,Yes,704,Yes,US,69438,23490.92,Denied
+Male,43,2000,No,No,High School,Asian,0,Yes,Yes,746,Yes,US,68738,33652.93,Denied
+Female,47,17773.47,No,Yes,Graduate,Asian,0,No,Yes,791,Yes,US,68399,88867.33,Approved
+Male,65,16051.41,Yes,Yes,College,Other,29.9,No,Yes,551,Yes,US,68210,53504.71,Denied
+Female,29,0,Yes,Yes,PhD,Other,7,No,Yes,703,Yes,US,68018,182801.34,Approved
+Male,28,0,Yes,No,Graduate,Black,9.1,Yes,Yes,757,Yes,US,67341,94998.46,Approved
+Male,18,12196.68,No,Yes,High School,Hispanic,0,No,Yes,656,Yes,US,66733,115127.14,Approved
+Female,60,1751.23,Yes,Yes,College,Black,0,No,Yes,650,No,US,66672,59370.59,Approved
+Male,30,1345.43,No,Yes,PhD,Black,0,No,Yes,709,Yes,US,66522,179340.04,Approved
+Male,64,25406.02,Yes,Yes,PhD,Black,30.1,No,Yes,831,Yes,US,65983,127030.11,Approved
+Female,34,29638.76,No,No,PhD,Other,7.6,Yes,Yes,782,Yes,Non-US,65903,148193.8,Denied
+Female,66,3520.32,No,No,College,White,0,No,No,761,No,US,64775,77328.99,Approved
+Male,41,7389.82,No,No,High School,White,0,No,Yes,535,No,US,64624,24632.72,Denied
+Female,66,0,No,Yes,High School,Other,0,No,Yes,751,No,Non-US,64595,37527.01,Denied
+Female,51,7200,Yes,No,College,White,0,No,Yes,500,Yes,US,64594,42053.4,Denied
+Female,18,959.83,Yes,Yes,PhD,White,0,No,No,716,Yes,US,64264,183199.44,Approved
+Male,29,5413.1,No,No,Graduate,Asian,4.4,No,Yes,757,Yes,US,63929,109881.13,Approved
+Female,19,14858.53,No,Yes,College,Other,0.6,No,Yes,300,Yes,US,63901,49528.42,Denied
+Female,54,230.72,Yes,No,PhD,Other,0,No,Yes,844,Yes,US,63594,161197.32,Approved
+Female,40,0,Yes,Yes,College,White,4.7,No,Yes,508,Yes,Non-US,63537,55179.99,Denied
+Female,40,6083.3,No,No,High School,Hispanic,19.2,No,No,736,Yes,US,63456,20277.67,Denied
+Female,58,13289.35,Yes,No,Graduate,White,0,No,Yes,692,Yes,US,63027,112067.05,Approved
+Female,18,169.14,No,No,High School,White,0,No,Yes,764,Yes,US,62532,161691.48,Approved
+Female,54,16728.76,Yes,No,Graduate,Other,11.1,Yes,Yes,844,Yes,US,62074,83643.79,Denied
+Male,57,17358.32,No,Yes,Graduate,Other,0,No,Yes,753,Yes,US,61890,86791.59,Approved
+Male,73,0,Yes,No,High School,Other,0,No,Yes,600,Yes,US,61845,20651.15,Denied
+Female,41,8262.22,No,Yes,High School,White,0,No,Yes,583,Yes,US,60935,27540.72,Denied
+Male,55,12195.24,Yes,Yes,College,Hispanic,30.6,Yes,Yes,328,Yes,US,60377,40650.8,Denied
+Male,43,20633.32,Yes,Yes,Graduate,Other,21.9,No,Yes,804,Yes,US,59926,103166.58,Approved
+Male,34,8403.59,No,No,High School,Hispanic,8.8,No,Yes,450,Yes,US,59905,28011.98,Denied
+Female,52,10429.87,No,No,College,Other,0,No,Yes,761,Yes,US,59603,52149.36,Approved
+Female,38,6207.84,Yes,Yes,High School,Hispanic,17.5,Yes,Yes,460,Yes,US,59249,20692.8,Denied
+Male,42,34954.57,Yes,Yes,Graduate,White,20.4,No,Yes,695,Yes,US,59045,116515.22,Approved
+Male,64,13524.45,No,No,College,Other,14.5,No,Yes,374,Yes,US,59001,53043.9,Denied
+Male,68,10001.87,Yes,No,PhD,Other,0,Yes,Yes,500,Yes,US,58749,187629.18,Denied
+Male,34,0,Yes,Yes,Graduate,Black,10.7,Yes,Yes,722,No,US,58639,107281.59,Approved
+Female,24,0,No,No,Graduate,White,0,No,Yes,734,Yes,US,57663,91946.95,Approved
+Female,55,32998.05,Yes,No,PhD,Black,35.4,No,Yes,817,Yes,US,57530,164990.27,Approved
+Female,44,0,No,No,High School,Hispanic,20.4,No,Yes,730,No,US,57393,33728.24,Approved
+Male,52,17000,Yes,No,College,Asian,0,Yes,Yes,471,Yes,US,56708,77513.52,Denied
+Male,58,17922.58,No,Yes,College,White,0,Yes,Yes,300,Yes,US,56503,59741.93,Denied
+Male,45,6717.23,Yes,Yes,College,White,18.7,No,No,300,Yes,US,55591,45101.29,Denied
+Female,26,0,Yes,No,High School,Asian,0,No,Yes,602,Yes,US,55564,21715.81,Denied
+Female,43,12964.21,Yes,No,PhD,Black,0,Yes,Yes,595,Yes,US,55334,196134.25,Denied
+Female,61,0,Yes,Yes,High School,Hispanic,0,No,Yes,844,Yes,US,55051,33242.91,Denied
+Male,62,24249.01,Yes,Yes,Graduate,Asian,0,No,No,741,Yes,US,54629,80830.05,Approved
+Male,63,453.21,Yes,No,Graduate,White,0,No,No,797,Yes,US,54523,110472.82,Approved
+Female,25,16295.01,No,No,College,White,0,No,No,725,Yes,US,54301,54316.71,Approved
+Female,48,12239.27,No,Yes,PhD,Other,5.6,No,Yes,720,Yes,US,54089,168567.44,Approved
+Female,72,38785.86,Yes,No,High School,Black,0,Yes,Yes,778,Yes,US,53878,193929.29,Denied
+Female,54,10210.38,No,Yes,High School,Black,0,No,Yes,747,Yes,US,53632,34034.61,Denied
+Male,65,0,Yes,Yes,College,Black,19.1,Yes,Yes,530,Yes,US,53354,75912.46,Denied
+Female,37,0,Yes,No,Graduate,Black,0,No,Yes,771,Yes,US,52787,112124.8,Approved
+Male,39,6496.92,No,No,High School,Asian,0,No,Yes,773,Yes,US,52486,32484.59,Denied
+Male,44,17003.9,No,Yes,Graduate,Hispanic,16.4,No,Yes,766,Yes,US,52172,85019.48,Approved
+Male,35,21811.1,Yes,Yes,College,Black,10.1,Yes,Yes,300,Yes,US,52076,72703.66,Denied
+Female,29,3728.24,Yes,No,College,Hispanic,0,No,No,734,Yes,US,51777,52419.61,Approved
+Male,34,14269.35,No,No,College,Black,12.4,Yes,Yes,319,Yes,US,51746,47564.49,Denied
+Female,58,10701.28,No,No,College,Hispanic,0,No,Yes,844,No,US,0,53506.4,Approved
+Male,59,12801.81,Yes,No,College,Other,0,No,Yes,841,Yes,US,51251,64009.04,Approved
+Male,26,3502,Yes,Yes,PhD,Other,0,No,Yes,806,Yes,US,51110,194918.03,Approved
+Male,66,10110.87,Yes,No,High School,White,31.3,No,Yes,309,Yes,US,50938,33702.91,Denied
+Male,61,0,Yes,No,Graduate,Black,38.9,No,No,846,Yes,US,50936,104814.93,Approved
+Female,73,6657.74,Yes,Yes,High School,White,54.1,No,No,842,Yes,US,50681,33288.71,Denied
+Male,39,0,Yes,No,College,Asian,0,No,Yes,699,Yes,US,50410,65714.69,Approved
+Female,33,7971.53,No,No,High School,Hispanic,0.8,No,Yes,324,Yes,US,49812,26571.78,Denied
+Female,70,0,No,Yes,High School,Black,0,No,Yes,746,Yes,US,49264,33446.45,Approved
+Male,34,10698.35,No,No,College,Asian,0,No,Yes,844,Yes,US,49193,53491.75,Approved
+Female,26,16340.48,Yes,No,College,Hispanic,0,No,Yes,665,Yes,US,48527,54468.28,Approved
+Female,49,42849.85,Yes,No,PhD,White,30.6,No,Yes,745,Yes,US,48065,142832.82,Approved
+Male,37,9144.34,Yes,No,High School,Other,0,No,Yes,739,Yes,US,46703,30481.12,Denied
+Female,35,0,No,Yes,PhD,White,0,No,Yes,759,Yes,US,46367,147419.15,Approved
+Female,74,0,No,No,High School,Black,26.9,No,Yes,700,Yes,US,46248,32332.65,Approved
+Male,49,0,No,No,High School,Hispanic,8.4,Yes,Yes,550,Yes,US,45964,31677.89,Denied
+Male,23,21215.97,Yes,Yes,College,White,0,No,Yes,718,Yes,US,45843,70719.91,Approved
+Female,35,12484.06,Yes,Yes,College,Hispanic,1.8,No,No,604,Yes,US,45599,41613.52,Denied
+Male,30,0,Yes,Yes,High School,White,8.8,No,Yes,466,Yes,Non-US,45549,30878.26,Denied
+Male,50,12733.35,Yes,No,College,Black,15.2,No,Yes,469,Yes,US,44955,64809.21,Denied
+Male,37,30410.98,Yes,No,PhD,White,0,Yes,Yes,794,Yes,US,44913,152054.89,Denied
+Male,70,0,Yes,No,PhD,Black,29.6,Yes,Yes,675,Yes,US,44814,126011.51,Approved
+Male,65,20477.65,No,Yes,PhD,White,45.7,Yes,Yes,847,Yes,US,44430,161622.73,Denied
+Female,45,4210.29,No,Yes,PhD,Hispanic,14.9,Yes,Yes,654,Yes,US,44409,160700.98,Denied
+Female,73,15904.12,No,No,College,Asian,0,Yes,Yes,302,Yes,US,44319,53013.75,Denied
+Male,53,35233.75,Yes,No,Graduate,Asian,29.8,No,Yes,746,Yes,US,43728,117445.84,Approved
+Female,18,9975.78,Yes,No,Graduate,Asian,0,No,Yes,680,Yes,US,43378,93082.46,Approved
+Female,31,0,Yes,Yes,College,White,4.5,No,Yes,421,Yes,US,43363,48048.81,Denied
+Female,67,5933.93,No,No,High School,Asian,0,No,Yes,759,Yes,US,42168,29669.64,Denied
+Male,39,0,Yes,Yes,High School,White,0,No,Yes,650,Yes,US,42137,23070.96,Denied
+Male,43,0,No,Yes,College,White,0,No,Yes,686,Yes,US,41752,56909.07,Approved
+Male,18,0,No,No,High School,Asian,0,No,Yes,567,Yes,US,41528,47000,Denied
+Female,35,18155.89,No,No,College,Hispanic,0,Yes,No,300,Yes,US,41105,64634.28,Denied
+Female,31,19631.4,No,Yes,College,White,5.9,No,Yes,720,Yes,US,40916,122435.23,Approved
+Female,69,6446.6,Yes,No,College,White,11.9,No,Yes,548,Yes,US,39907,56146.48,Denied
+Male,57,1880.9,No,No,High School,Black,31,Yes,Yes,582,Yes,US,39874,35088.52,Denied
+Female,29,881.22,Yes,No,PhD,Black,7,No,Yes,680,No,US,39620,149604.08,Approved
+Male,73,42694.98,No,Yes,PhD,Other,0,No,Yes,585,Yes,US,39445,192483.23,Denied
+Male,48,0,Yes,No,PhD,Hispanic,0.5,No,Yes,737,Yes,US,38456,152340.14,Approved
+Female,35,288.14,Yes,Yes,High School,Hispanic,4.7,Yes,Yes,779,No,US,38327,163253.89,Approved
+Female,21,21076.66,Yes,Yes,Graduate,White,0,Yes,Yes,846,Yes,US,38168,105383.32,Denied
+Male,69,11288.42,Yes,Yes,High School,Other,45.3,No,Yes,557,No,US,37969,37628.06,Denied
+Female,23,36210.15,No,Yes,High School,Asian,4.6,No,Yes,742,Yes,US,37877,120700.49,Approved
+Male,20,6007.64,Yes,Yes,High School,Asian,1.3,No,Yes,718,Yes,US,36383,20025.48,Denied
+Female,26,18437.63,Yes,No,College,Other,5.7,Yes,Yes,336,Yes,US,36279,61458.76,Denied
+Male,43,6073.85,Yes,Yes,High School,Other,7.8,No,Yes,610,No,US,36278,20246.15,Denied
+Male,33,19003.34,No,No,College,Other,11.5,No,Yes,470,Yes,US,36097,63344.48,Denied
+Female,46,7931.32,Yes,Yes,College,Asian,8.9,No,Yes,694,Yes,US,35136,59771.08,Approved
+Female,48,0,Yes,No,Graduate,White,6.5,No,Yes,814,Yes,US,34346,87890.41,Approved
+Male,48,13032.56,No,No,College,Black,0,No,No,661,Yes,US,33811,43441.88,Denied
+Male,52,0,No,Yes,Graduate,Other,0,No,Yes,705,Yes,Non-US,33517,81147.24,Approved
+Male,55,121.21,Yes,No,College,Asian,0,Yes,Yes,459,Yes,US,33183,42753.92,Denied
+Female,41,21138.68,No,No,Graduate,White,8.8,No,Yes,760,Yes,US,32748,105693.41,Approved
+Female,39,0,Yes,No,High School,Black,19.6,No,Yes,700,Yes,US,32679,21094.21,Approved
+Male,61,18666.36,No,No,PhD,Black,0,Yes,Yes,783,Yes,US,32282,193401.58,Denied
+Male,30,21674.86,No,No,PhD,Asian,0,Yes,Yes,705,Yes,US,32188,135007.57,Denied
+Female,45,0,Yes,Yes,College,Black,5.8,Yes,Yes,601,Yes,US,31431,66687.78,Denied
+Female,34,31292.51,Yes,No,Graduate,Other,0,No,Yes,653,Yes,US,30706,105690.1,Approved
+Female,40,19619.47,No,No,High School,Hispanic,17.8,Yes,Yes,846,Yes,US,30553,98097.34,Denied
+Male,21,4762.35,No,No,PhD,Hispanic,0,No,Yes,739,Yes,US,30286,158874.51,Approved
+Male,27,155.04,No,Yes,PhD,Black,3,No,Yes,802,Yes,US,29074,177884.31,Approved
+Female,30,0,No,No,Graduate,White,10,No,Yes,711,Yes,US,28969,117555.39,Approved
+Male,71,19537.46,Yes,Yes,College,Hispanic,0,No,Yes,812,Yes,US,28802,97687.32,Approved
+Male,27,0,Yes,No,College,White,0,No,Yes,788,Yes,US,28604,56906.78,Approved
+Male,24,0,Yes,Yes,College,Asian,0,No,No,720,Yes,US,28442,64242.22,Approved
+Female,29,0,No,Yes,PhD,Asian,4.9,No,Yes,792,Yes,US,27755,151946.83,Approved
+Female,34,123.99,Yes,Yes,PhD,Asian,3.6,No,Yes,820,Yes,US,27422,179347.45,Approved
+Male,42,7022.63,Yes,No,High School,Asian,7.9,No,Yes,366,Yes,US,27257,23408.76,Denied
+Female,70,13052.81,No,Yes,High School,Other,45.2,No,Yes,757,Yes,US,26599,120576.89,Approved
+Female,19,494.67,No,No,PhD,Black,0.3,Yes,Yes,744,Yes,US,26493,164995.58,Denied
+Female,71,23057.62,Yes,Yes,College,Black,36.1,No,Yes,618,Yes,US,26061,76858.74,Approved
+Male,35,,Yes,Yes,College,Other,14,No,Yes,663,Yes,US,25018,44767.95,Approved
+Male,61,20386.42,Yes,Yes,College,White,8.3,No,Yes,742,Yes,US,23913,67954.74,Approved
+Male,32,0,No,No,PhD,Hispanic,0,No,Yes,821,Yes,US,23683,179140.81,Approved
+Female,36,8818.92,No,Yes,High School,White,11.7,Yes,Yes,319,Yes,US,23614,29396.39,Denied
+Female,24,21112.48,Yes,No,College,White,4.2,Yes,Yes,653,Yes,Non-US,23515,70374.93,Denied
+Male,67,0,Yes,Yes,College,Hispanic,44.3,No,Yes,812,Yes,US,22700,108659.95,Approved
+Female,31,0,No,Yes,PhD,Asian,8.9,No,Yes,700,Yes,US,22423,147241.94,Approved
+Male,68,2685.77,No,No,High School,Hispanic,0.1,No,Yes,788,No,US,22225,86663.95,Approved
+Male,57,16315.36,Yes,No,College,Hispanic,0,Yes,Yes,378,Yes,US,0,54384.55,Denied
+Female,46,26690.19,Yes,Yes,Graduate,Other,0,No,No,721,No,US,21360,88967.31,Approved
+Female,58,33607.66,No,No,Graduate,Hispanic,9.9,Yes,Yes,743,Yes,US,21288,112025.53,Denied
+Female,20,3160.68,Yes,No,PhD,Black,0.8,No,Yes,810,Yes,US,21007,156803.39,Approved
+Female,59,10718.46,No,Yes,High School,Other,2.9,No,Yes,686,Yes,US,20906,35728.19,Denied
+Male,37,29439.56,Yes,No,Graduate,Hispanic,0,No,No,693,Yes,US,20829,98131.87,Approved
+Female,19,0,No,No,College,Asian,0.6,No,Yes,734,Yes,US,20691,74134.24,Approved
+Male,66,914.52,No,No,Graduate,Asian,0,Yes,Yes,801,Yes,US,20494,95215.63,Denied
+Female,53,21046.78,Yes,No,Graduate,Hispanic,0,No,Yes,833,Yes,US,20009,105233.92,Approved
+Male,29,5004,Yes,Yes,High School,Hispanic,0,No,Yes,649,No,US,19327,39366.83,Denied
+Male,49,2634.09,Yes,No,PhD,White,0,No,Yes,834,Yes,US,19175,149555.72,Approved
+Female,33,1500,No,No,College,White,8.5,No,No,500,Yes,US,18956,76915.52,Denied
+Male,71,740.23,No,Yes,PhD,Hispanic,47.5,No,Yes,816,Yes,US,18915,178958.66,Approved
+Male,46,13748.77,No,Yes,College,Hispanic,0,No,Yes,824,Yes,US,18456,68743.83,Approved
+Female,48,0,Yes,Yes,Graduate,Hispanic,17.3,No,Yes,797,Yes,US,18374,47567,Approved
+Female,22,0,No,Yes,College,Other,0,No,Yes,750,Yes,US,18356,64734.61,Approved
+Male,29,23622.5,No,No,College,Asian,3.7,No,Yes,376,Yes,US,17893,78741.67,Denied
+Male,38,16682.28,Yes,No,College,Hispanic,0,No,Yes,366,Yes,US,17498,55607.6,Denied
+Male,21,2000,No,Yes,High School,White,1,No,No,681,Yes,US,17381,27957.14,Denied
+Female,49,7189.71,Yes,No,High School,Asian,16.8,No,Yes,727,No,US,17300,23965.71,Denied
+Female,18,19742.76,No,No,College,Hispanic,0,No,Yes,616,No,US,16942,65809.2,Approved
+Male,51,0,Yes,No,PhD,Hispanic,0,Yes,Yes,689,Yes,US,16878,52231.23,Approved
+Male,51,18942.21,Yes,No,Graduate,Other,8.8,Yes,Yes,765,Yes,Non-US,16502,94711.06,Denied
+Male,30,0,No,Yes,High School,Asian,0,No,Yes,581,Yes,US,16250,38552.18,Approved
+Female,52,5056.2,Yes,Yes,Graduate,Other,29.6,No,No,739,Yes,US,16017,111032.21,Approved
+Female,36,5581.46,Yes,Yes,PhD,Other,0,No,Yes,702,Yes,Non-US,15501,120260.97,Approved
+Female,68,0,No,No,PhD,Black,0,No,Yes,817,No,US,14728,142762.45,Approved
+Female,28,0,No,Yes,College,Black,0,No,Yes,427,Yes,US,13873,54706.33,Denied
+Female,51,20440.09,Yes,Yes,College,Asian,0,No,Yes,478,Yes,US,13615,68133.63,Denied
+Female,18,468.06,Yes,Yes,PhD,Black,0,No,Yes,706,Yes,US,13124,162226.86,Approved
+Male,56,0,No,No,Graduate,Asian,0,Yes,No,765,Yes,US,13099,87502.89,Approved
+Male,26,11239.93,Yes,No,High School,Hispanic,3.5,Yes,Yes,404,Yes,US,12476,37466.44,Denied
+Male,70,8613.54,No,Yes,High School,White,0,Yes,Yes,661,Yes,US,12173,31031.05,Denied
+Female,38,10926.79,No,No,High School,Hispanic,14.8,No,Yes,349,Yes,US,11911,36422.64,Denied
+Female,63,2034,Yes,No,High School,Asian,12.7,No,Yes,825,Yes,US,11185,199595.24,Approved
+Male,70,12512.64,Yes,No,College,White,0,No,Yes,808,Yes,US,11032,62563.19,Approved
+Male,44,6140.92,No,Yes,Graduate,Black,26,No,Yes,761,Yes,US,11022,95281.58,Approved
+Male,66,588.63,Yes,Yes,,Black,0,No,Yes,718,Yes,US,10373,185628.76,Approved
+Female,66,8206.5,Yes,Yes,College,White,45,No,Yes,754,Yes,,10256,41032.48,Denied
+Male,62,0,Yes,No,High School,Asian,0,No,Yes,659,Yes,US,,20195.45,Approved
+Male,73,6190.57,Yes,Yes,High School,Other,14.6,No,Yes,697,Yes,US,,20635.23,Denied
+Male,58,6192.54,Yes,No,High School,Other,22,No,Yes,450,Yes,US,,20641.81,Denied
+Female,37,0,Yes,No,High School,Other,0,No,Yes,463,Yes,US,,40000,Denied
+Female,46,7579.56,Yes,Yes,High School,Other,0,No,Yes,475,Yes,US,,31000,Denied
+Male,69,6889.62,Yes,Yes,High School,Asian,3,No,Yes,787,No,US,,34448.11,Denied
+Male,67,14997.22,No,No,College,Asian,0,No,Yes,300,Yes,US,,49990.74,Denied
+Male,34,0,No,No,College,White,0.5,No,Yes,458,No,US,,65892.41,Denied
+Female,56,9212.24,No,No,College,Other,6.3,No,Yes,689,Yes,US,,68218.58,Approved
+Male,47,20835.78,No,Yes,College,Black,0,Yes,Yes,410,No,US,,69452.59,Denied
+Male,61,21962.2,No,No,College,Black,23.8,No,Yes,505,Yes,US,,73207.34,Denied
+Female,71,5120,No,No,College,Hispanic,42.2,No,Yes,700,Yes,US,,79968.4,Approved
+Female,37,17078.9,Yes,Yes,Graduate,White,13.5,No,Yes,791,Yes,US,,85394.51,Approved
+Female,56,10898.32,No,Yes,College,Asian,11.9,No,Yes,694,Yes,US,,97405.52,Approved
+Male,37,31348.49,No,Yes,Graduate,Black,0,No,Yes,735,No,US,,104494.96,Approved
+Female,27,35546.16,Yes,Yes,Graduate,Asian,0,Yes,Yes,666,Yes,US,,118487.19,Denied
+Male,22,24437.97,No,No,PhD,White,1.2,No,Yes,810,Yes,US,,122189.86,Approved
+Male,52,1131,No,Yes,PhD,Other,0,No,Yes,778,Yes,US,,174424.28,Approved
+Female,18,3742.75,No,No,PhD,Black,0,No,Yes,815,Yes,US,,188713.76,Approved
